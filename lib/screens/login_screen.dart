@@ -153,7 +153,6 @@ class _LoginScreenState extends State<LoginScreen> {
       if (trigFail != null) {
         trigFail!.fire();
       }
-      
     }
   }
 

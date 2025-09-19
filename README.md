@@ -1,30 +1,40 @@
-# 🐻 Login Animado con Flutter y Rive
+# 🐻 Animated Login with Flutter & Rive
 
-Una interfaz de login interactiva y divertida con un oso animado que reacciona a tus acciones en tiempo real. Desarrollada con Flutter y Rive para crear una experiencia de usuario única.
+An interactive login interface with an animated bear that reacts to user actions in real-time. Built with Flutter and Rive for a unique user experience.
 
-![Login Animado](https://img.shields.io/badge/Flutter-3.13.0-blue?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-3.13.0-blue?style=for-the-badge&logo=flutter)
 ![Rive](https://img.shields.io/badge/Rive-Animation-orange?style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-3.1.0-blue?style=for-the-badge&logo=dart)
 
-## ✨ Características
+## 📚 Course Information
 
-- **🐻 Oso Animado**: Personaje interactivo que sigue tu escritura
-- **👀 Seguimiento Visual**: El oso mira el texto mientras escribes en el email
-- **🙈 Ocultamiento**: Se tapa los ojos cuando escribes la contraseña
-- **✅ Validación Inteligente**: Animaciones de éxito/error según las credenciales
-- **⏰ Timer Inteligente**: El oso vuelve a mirar al frente después de 1.5 segundos de inactividad
-- **🎨 UI Moderna**: Diseño limpio y atractivo con Material Design
+- **Course**: Mobile Application Development
+- **Professor**: [Professor's Name]
+- **Institution**: [Your University Name]
 
-## 🎬 Demostración
+## ✨ Features
 
-| Email Writing                                                                    | Password Typing                                                                       | Success Animation                                                                 |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Email](https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=Oso+mirando+texto) | ![Password](https://via.placeholder.com/300x600/9013FE/FFFFFF?text=Oso+tapándose+ojos) | ![Success](https://via.placeholder.com/300x600/7ED321/FFFFFF?text=¡Login+Exitoso!) |
+- **🐻 Interactive Bear**: Animated character that follows your typing
+- **👀 Eye Tracking**: Bear looks at the text while you type in email
+- **🙈 Privacy Protection**: Covers eyes when password field is focused
+- **✅ Smart Validation**: Success/error animations based on credentials
+- **⏰ Intelligent Timer**: Bear returns to default position after 1.5s of inactivity
+- **🎨 Modern UI**: Clean Material Design interface
 
-## 🚀 Instalación
+## 🎥 Demo
 
-1. **Clona el repositorio**
+![Animated Login Demo](https://via.placeholder.com/600x400/4A90E2/FFFFFF?text=GIF+Showing+Full+Functionality)
+
+
+```
+(https://media.giphy.com/media/tu-enlace-gif/giphy.gif)
+```
+
+
+## 🚀 Quick Start
+
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/tuusuario/login-animado.git
-   cd login-animado
+   git clone https://github.com/yourusername/animated-login.git
+   cd animated-login
    ```
