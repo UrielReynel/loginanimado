@@ -1,16 +1,31 @@
-# loginanimado
+# 🐻 Animated Login with Flutter & Rive
 
-A new Flutter project.
+An interactive login interface with an animated bear that reacts to user actions in real-time. Built with Flutter and Rive for a unique user experience.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.13.0-blue?style=for-the-badge&logo=flutter)
+![Rive](https://img.shields.io/badge/Rive-Animation-orange?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-3.1.0-blue?style=for-the-badge&logo=dart)
 
-This project is a starting point for a Flutter application.
+## 📚 Course Information
+- **Course**: Mobile Application Development  
+- **Professor**: Dr. Jane Smith
+- **Institution**: Tech University
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **🐻 Interactive Bear**: Animated character that follows your typing
+- **👀 Eye Tracking**: Bear looks at the text while you type in email
+- **🙈 Privacy Protection**: Covers eyes when password field is focused
+- **✅ Smart Validation**: Success/error animations based on credentials
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎥 Demo
+
+![Animated Login Demo](https://github.com/tuusuario/tu-repositorio/raw/main/assets/demo.gif)
+*Complete functionality demonstration - Bear follows text, covers eyes, and shows success/error animations*
+
+## 🚀 Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/animated-login.git
+   cd animated-login
