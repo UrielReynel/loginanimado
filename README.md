@@ -20,7 +20,7 @@ An interactive login interface with an animated bear that reacts to user actions
 
 ## 🎥 Demo
 
-![Animated Login Demo](https://github.com/tuusuario/tu-repositorio/raw/main/assets/demo.gif)
+![Animated Login Demo](https://github.com/UrielReynel/loginanimado/blob/main/assets/2025-09-18-16-25-41.gif)
 *Complete functionality demonstration - Bear follows text, covers eyes, and shows success/error animations*
 
 ## 🚀 Quick Start
